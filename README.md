@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 
-<img src = "https://komarev.com/ghpvc/?username=mahdikhatirian1996&color=blue&style=flat-square">
-<img src="https://github-readmestats.vercel.app/api/toplangs/username=mahdikhatirian1996&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-<img src = "https://github-readme-stats.vercel.app/api?username=mahdikhatirian1996&theme=prussian&show_icons=true">
+<img src ="https://komarev.com/ghpvc/?username=mahdikhatirian1996&color=blue&style=flat-square">
+<img src ="https://github-readmestats.vercel.app/api/toplangs/username=mahdikhatirian1996&title_color=ffffff&count_private=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=mahdikhatirian1996&theme=prussian&show_icons=true">
 
 <a href="https://github.com/natterstefan/mahdikhatirian1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikhatirian1996&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
