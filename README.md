@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikhatirian1996&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-
 ## 📬 Contact Me
 
 - Gmail: mehdikhatir1375@gmail.com
