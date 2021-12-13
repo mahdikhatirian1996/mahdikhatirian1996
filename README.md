@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - LinkedIn: [linkedin.com/in/mahdi-khatirian](https://www.linkedin.com/in/mahdi-khatirian)
 - <p align="left">
   <a href="https://instagram.com/kh._mhdi" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mrrezayazdani-blueviolet?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-MahdiKhatirian-blueviolet?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://t.me/MKhtiri" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mrrezayazdani-blue?style=flat&logo=telegram" alt="telegram"/>
+ <img align="center" src="https://img.shields.io/badge/-MahdiKhatirian-blue?style=flat&logo=telegram" alt="telegram"/>
 </a>
 </p>
 
