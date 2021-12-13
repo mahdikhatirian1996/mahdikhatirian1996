@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 - Gmail: mehdikhatir1375@gmail.com
 - LinkedIn: [linkedin.com/in/mahdi-khatirian](https://www.linkedin.com/in/mahdi-khatirian)
 
+## 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaEE](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
 
 ## &#x1f4c8; My GitHub Stats
 
