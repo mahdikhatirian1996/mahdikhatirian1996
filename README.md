@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img src ="https://komarev.com/ghpvc/?username=mahdikhatirian1996&color=blue&style=flat-square">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikhatirian1996&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 <!--
 **mahdikhatirian1996/mahdikhatirian1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
