@@ -13,5 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> <img src = "https://komarev.com/ghpvc/?username=mahdikhatirian1996&color=blue&style=flat-square">
+--> 
+
+
+## 📬 Contact Me
+
+- Gmail: mehdikhatir1375@gmail.com
+- LinkedIn: [linkedin.com/in/mahdi-khatirian](https://www.linkedin.com/in/mahdi-khatirian)
+
+
+## &#x1f4c8; My GitHub Stats
+
+<img src = "https://komarev.com/ghpvc/?username=mahdikhatirian1996&color=blue&style=flat-square">
 <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=prussian&show_icons=true">
+
