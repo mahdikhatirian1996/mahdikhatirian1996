@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ![JavaEE](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=lightblue)&nbsp;<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![JQuery](https://img.shields.io/badge/jquery-05122A?style=flat&logo=jquery&logoColor=red)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-05122A?style=flat&logo=bootstrap&logoColor=lightblue)&nbsp;
-![Tailwinds](https://img.shields.io/badge/tailwindcss-05122A?style=flat&logo=tailwind-css&logoColor=red)&nbsp;
+![JQuery](https://img.shields.io/badge/jquery-05122A?style=flat&logo=jquery&logoColor=red)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-05122A?style=flat&logo=flask&logoColor=lightblue)&nbsp;
+![Tailwinds](https://img.shields.io/badge/tailwindcss-05122A?style=flat&logo=tailwind-css&logoColor=red)&nbsp;
 
 
 ## &#x1f4c8; My GitHub Stats
