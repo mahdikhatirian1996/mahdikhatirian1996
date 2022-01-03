@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=lightblue)&nbsp;
 ![JavaEE](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=lightblue)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=lightblue)&nbsp;<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![JQuery](https://img.shields.io/badge/jquery-05122A?style=flat&logo=jquery&logoColor=red)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-05122A?style=flat&logo=bootstrap&logoColor=lightblue)&nbsp;
