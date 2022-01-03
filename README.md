@@ -26,12 +26,16 @@ Here are some ideas to get you started:
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=lightblue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaEE](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=lightblue)&nbsp;
+![JavaEE](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=lightblue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![JQuery](https://img.shields.io/badge/jquery-05122A?style=flat&logo=jquery&logoColor=red)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-05122A?style=flat&logo=bootstrap&logoColor=lightblue)&nbsp;
+![Tailwinds](https://img.shields.io/badge/tailwindcss-05122A?style=flat&logo=tailwind-css&logoColor=red)&nbsp;
+![Flask](https://img.shields.io/badge/flask-05122A?style=flat&logo=flask&logoColor=lightblue)&nbsp;
 
 
 ## &#x1f4c8; My GitHub Stats
